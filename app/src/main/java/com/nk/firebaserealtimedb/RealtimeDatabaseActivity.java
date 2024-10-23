@@ -27,7 +27,7 @@ import com.google.firebase.database.ValueEventListener;
 
 /**
  * https://youtu.be/LJpn81pG06Y?si=Dv1-ZW7dmELjuHWE - video lesson
- *
+ * https://firebase.google.com/docs/database/android/start - main documentation to use firebase
  */
 
 public class RealtimeDatabaseActivity extends AppCompatActivity {
