@@ -40,6 +40,7 @@ import java.util.Map;
 
 /**
  * https://youtu.be/eSN2a3Py4Pk?si=3x94K5Gfb2_daMNX - lesson video
+ * https://firebase.google.com/docs/firestore/data-model?utm_source=studio#java - documentation
  */
 
 public class CloudFirebaseDatabaseActivity extends AppCompatActivity {
